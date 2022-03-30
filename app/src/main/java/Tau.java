@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Tau {
+public class Tau {
+    public static void main(String[] args) {
+
+    }
 }
